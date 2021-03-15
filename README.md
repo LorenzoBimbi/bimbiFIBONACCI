@@ -1,8 +1,1 @@
 [Link](https://www.google.it/)
-<a href="https://www.google.it">Google</a>
-<a href="https://www.google.com/.">
-<a href="https://iis-galilei-artiglio.github.io/plays/.">Playstation</a>
-https://www.google.com/search?client=firefox-b-d&q=google
-
-
-<a href="https://github.com/LorenzoBimbi/bimbiFIBONACCI/.">
