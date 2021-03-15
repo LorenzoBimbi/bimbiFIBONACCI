@@ -1,1 +1,1 @@
-![pizza](pizza.png "Titolo")
+![pizza](jpg/pizza.png "Titolo")
