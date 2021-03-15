@@ -1,1 +1,1 @@
-![alt-text](url/immagine.png "Titolo")
+![pizza](url/pizza.png "Titolo")
