@@ -4,4 +4,4 @@ Col nome pizza, praticamente ignoto al di là della cinta urbana napoletana, anc
 Nel 2017 l'UNESCO ha dichiarato l'arte del pizzaiolo napoletano come patrimonio immateriale dell'umanità.
 Pizza è la parola italiana più famosa al mondo.
 
-![alt-text](url/pizza.png ")pizza</a>
+![alt-text](url/pizza.png)pizza</a>
